@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /logbook/*
+Disallow: /logbook
